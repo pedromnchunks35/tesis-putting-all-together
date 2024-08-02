@@ -1,0 +1,11 @@
+# Tasks
+- Create a prometheus source of data inside of the cluster
+- Think in a way to pass this prometheus data
+- Make connections from quarkus-rest to the UI
+- Make General Network Queries
+- Make Connection to Peer Config
+- Make Connection to Orderer Config
+- Deploy the keycloak
+- Create a register mechanism
+- Create a login mechanism
+- Put the restrictions to it
