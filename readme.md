@@ -21,6 +21,7 @@
 ## [Keycloak basics](https://github.com/pedromnchunks35/keycloak##basis)
 ## [Quarkus rest with keycloak and also grpc](https://github.com/pedromnchunks35/microservice##full##java)
 ## [Metrics,measures,future incrementations and network constitution of the benchmarking](https://github.com/pedromnchunks35/hospital##installation##kubernetes)
+## [Internal network first steps](./internalNetwork/readme.md)
 # Final Architecture
 ![Tesis global arch](./assets/tesis-global.png)
 ## Peer
