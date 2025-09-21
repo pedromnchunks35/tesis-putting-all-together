@@ -143,3 +143,8 @@
 #### DELETE requests
 - "/deleteById/:id"
   - This is for deleting a given asset
+
+
+# More
+- We should either create a script to delete logs from the containers or increase the partition in /var
+- This is because once the logs fill up there will be a disk pressure trait and everything will go cabum in the network..
